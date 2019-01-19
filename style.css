@@ -17,7 +17,6 @@ body, html {
 }
 .bgimg-1 {
   height: 100%;
-  background-image: url("china.jpg");
 }
 .bgimg-1 video {
     position: absolute;
